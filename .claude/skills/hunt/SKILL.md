@@ -14,6 +14,6 @@ description: Run one CALL-FOR-HUNT pass for Edward Daniel Simamora (80%) and Joh
 6. **Write the report** to `reports/HUNT REPORT (<YYYY-MM-DD> <HHMM> WITA).md` with the sections in kit v0 section 3 step 8. Group new calls by `for` (Edward first) and put Indonesian calls after international ones in the same week.
 7. **Mirror to Drive:** create the report as a new Google Doc in the Drive folder CALL-FOR-HUNT (id `11r10HRjDOoMFe_T27gHqVDobNFgVRZPA`). Never overwrite or delete anything there.
 8. **Commit and push** the run's files to the session's branch with a message like `hunt: <date> — N new, M changed, K dropped`. No pull request unless asked.
-9. **Hand over the baton** (kit 02, E): copy the report, a ledger snapshot and new drafts into the baton folder as new dated files, then write the next `BATON` note (online to offline). Then **tell the user** in a few lines: how many new calls, the three nearest hard deadlines, the great calls, and where the report is.
+9. **Hand over the baton** (kit 02, E): copy the report, a ledger snapshot and new drafts into the baton folder as new dated files, then write the next `BATON` note (online to offline), ending with the offline (Cowork) paste prompt from kit 03. Then **tell the user** in a few lines: how many new calls, the three nearest hard deadlines, the great calls, and where the report is.
 
 Never submit, email, register or pay. No deadline, fee, word limit or URL goes in unless seen on the call's own page or official social media; otherwise it is LEAD.
